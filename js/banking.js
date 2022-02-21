@@ -66,4 +66,5 @@ document.getElementById('withdraw-button').addEventListener('click', function ()
         console.log('You can not withdraw more than what your in your account')
     }
 
+
 })
